@@ -1,4 +1,4 @@
-# SmarterEmbeds - [Download](https://github.com/BeardDesign1/SmarterEmbeds/archive/master.zip)
+# SmarterEmbeds - [Download](https://betterdiscord.net/ghdl?id=653)
 ### It basically makes the embeds align horizontally, so when there's multitple links in the same message, it takes less space in the chat.
 
 **Here's some screenshots in case you didn't get how it works:**
