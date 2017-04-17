@@ -6,7 +6,4 @@
 ![screenshot](https://bearddesign.s-ul.eu/sy7h6bZ5.png)
 ![screenshot](https://bearddesign.s-ul.eu/PAopX43W.png)
 ![screenshot](https://bearddesign.s-ul.eu/5lQRcLA7.png)
-**The two last ones are with my theme bcs I was too lazy to turn it off but u get it now.**
-
-
-###### btw ik I did shit with my last theme and it didn't actually work so it was deleted but I swear this one works ksorrybye
+**The last two are with my theme because I was too lazy to turn it off but you get it now.**
