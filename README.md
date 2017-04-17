@@ -6,4 +6,4 @@
 ![screenshot](https://bearddesign.s-ul.eu/sy7h6bZ5.png)
 ![screenshot](https://bearddesign.s-ul.eu/PAopX43W.png)
 ![screenshot](https://bearddesign.s-ul.eu/5lQRcLA7.png)
-**The last two are with my theme because I was too lazy to turn it off but you get it now.**
+###### The last two are with my theme because I was too lazy to turn it off.
