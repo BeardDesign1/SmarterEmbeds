@@ -5,6 +5,10 @@
 	flex-flow: row wrap;
 }
 
+.container-1pMiXm {
+	display: grid;
+}
+
 .container-1ov-mD > :not(:last-of-type){
 	margin-right: 10px;
 }
